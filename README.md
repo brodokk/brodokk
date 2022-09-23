@@ -1,8 +1,6 @@
 ### Hi I'm brodokk
 
-I'm mainly work on NeosVR related projects when I have time for them.
-
-For now my work is focused on creating tools for some NeosVR communities and users.
+For now my work is mainly focused on creating tools for some NeosVR communities and users when I have time for them.
 
 My two big projects for the moment are a [Discord Bot](https://github.com/NeosVR-Community-Projects/accesslistmanager) for managing users ability to join NeosVR sessions. And a [service](https://events.neos.boltwolf.net/) ([source code](https://github.com/NeosVR-Community-Projects/community_events.neos)) for list some of the NeosVR events available.
 
