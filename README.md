@@ -1,6 +1,6 @@
 ### Hi I'm brodokk
 
-I'm a Fennec Fox Developer, you can also find me on my [website](https://brodokk.space)
+I'm a Fennec Fox Developer, while im posting my code on GitHub for make it easier to people to contibute to it I also have [my own space](https://brodokk.space) in the cyberspace.
 
 For now my work is mainly focused on creating tools for some NeosVR communities and users when I have time for them.
 
